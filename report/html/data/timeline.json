@@ -1,0 +1,52 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LAPTOP-5VPLT75S",
+    "children" : [ {
+      "name" : "28964-MainThread",
+      "children" : [ {
+        "name" : "test_01",
+        "uid" : "d16796ad674899fe",
+        "parentUid" : "0c6d46a51e8d8939353543b1dac95495",
+        "status" : "passed",
+        "time" : {
+          "start" : 1584770695169,
+          "stop" : 1584770695178,
+          "duration" : 9
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_03",
+        "uid" : "3fdce03e3b7893e3",
+        "parentUid" : "0c6d46a51e8d8939353543b1dac95495",
+        "status" : "passed",
+        "time" : {
+          "start" : 1584770695190,
+          "stop" : 1584770695198,
+          "duration" : 8
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_02",
+        "uid" : "be39c3801e214555",
+        "parentUid" : "0c6d46a51e8d8939353543b1dac95495",
+        "status" : "passed",
+        "time" : {
+          "start" : 1584770695181,
+          "stop" : 1584770695185,
+          "duration" : 4
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0c6d46a51e8d8939353543b1dac95495"
+    } ],
+    "uid" : "e5ee0b7092ffd0eba50810be5e61b612"
+  } ]
+}
