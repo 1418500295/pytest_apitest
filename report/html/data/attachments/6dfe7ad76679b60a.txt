@@ -1,0 +1,6 @@
+测试开始
+恭喜你获得cookies信息成功
+<RequestsCookieJar[<Cookie login=true for localhost.local/>]>
+login true
+这是�?个需要携带cookies信息才能访问的get请求
+测试结束

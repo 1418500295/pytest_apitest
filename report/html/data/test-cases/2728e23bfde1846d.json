@@ -1,12 +1,12 @@
 {
-  "uid" : "be39c3801e214555",
-  "name" : "test_02",
-  "fullName" : "cases.test_first.TestFirst#test_02",
-  "historyId" : "c95a048e43c4c8a0bf31e17e5c8fe2f8",
+  "uid" : "2728e23bfde1846d",
+  "name" : "test_01",
+  "fullName" : "cases.test_first.TestFirst#test_01",
+  "historyId" : "61a4b21e06bc0cc05f4d75ea8fc9ee61",
   "time" : {
-    "start" : 1584770695181,
-    "stop" : 1584770695185,
-    "duration" : 4
+    "start" : 1584787496925,
+    "stop" : 1584787496935,
+    "duration" : 10
   },
   "status" : "passed",
   "flaky" : false,
@@ -14,34 +14,34 @@
   "beforeStages" : [ {
     "name" : "simple_setup",
     "time" : {
-      "start" : 1584770695181,
-      "stop" : 1584770695181,
+      "start" : 1584787496924,
+      "stop" : 1584787496924,
       "duration" : 0
     },
     "status" : "passed",
     "steps" : [ ],
     "attachments" : [ ],
     "parameters" : [ ],
-    "stepsCount" : 0,
-    "hasContent" : false,
+    "shouldDisplayMessage" : false,
     "attachmentsCount" : 0,
-    "shouldDisplayMessage" : false
+    "stepsCount" : 0,
+    "hasContent" : false
   } ],
   "afterStages" : [ {
     "name" : "simple_setup::0",
     "time" : {
-      "start" : 1584770695186,
-      "stop" : 1584770695186,
+      "start" : 1584787496936,
+      "stop" : 1584787496936,
       "duration" : 0
     },
     "status" : "passed",
     "steps" : [ ],
     "attachments" : [ ],
     "parameters" : [ ],
-    "stepsCount" : 0,
-    "hasContent" : false,
+    "shouldDisplayMessage" : false,
     "attachmentsCount" : 0,
-    "shouldDisplayMessage" : false
+    "stepsCount" : 0,
+    "hasContent" : false
   } ],
   "labels" : [ {
     "name" : "parentSuite",
@@ -57,7 +57,7 @@
     "value" : "LAPTOP-5VPLT75S"
   }, {
     "name" : "thread",
-    "value" : "28964-MainThread"
+    "value" : "36508-MainThread"
   }, {
     "name" : "framework",
     "value" : "pytest"
@@ -73,14 +73,12 @@
   } ],
   "parameters" : [ ],
   "links" : [ ],
-  "hidden" : false,
-  "retry" : false,
+  "hidden" : true,
+  "retry" : true,
   "extra" : {
-    "severity" : "normal",
-    "retries" : [ ],
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "be39c3801e214555.json",
+  "source" : "2728e23bfde1846d.json",
   "parameterValues" : [ ]
 }

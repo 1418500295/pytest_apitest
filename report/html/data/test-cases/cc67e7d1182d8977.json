@@ -1,12 +1,12 @@
 {
-  "uid" : "d16796ad674899fe",
-  "name" : "test_01",
-  "fullName" : "cases.test_first.TestFirst#test_01",
-  "historyId" : "61a4b21e06bc0cc05f4d75ea8fc9ee61",
+  "uid" : "cc67e7d1182d8977",
+  "name" : "test_03",
+  "fullName" : "cases.test_first.TestFirst#test_03",
+  "historyId" : "f56f50dc41c8b0a5066e54e2e3219859",
   "time" : {
-    "start" : 1584770695169,
-    "stop" : 1584770695178,
-    "duration" : 9
+    "start" : 1584770695190,
+    "stop" : 1584770695198,
+    "duration" : 8
   },
   "status" : "passed",
   "flaky" : false,
@@ -14,34 +14,34 @@
   "beforeStages" : [ {
     "name" : "simple_setup",
     "time" : {
-      "start" : 1584770695169,
-      "stop" : 1584770695169,
-      "duration" : 0
+      "start" : 1584770695189,
+      "stop" : 1584770695190,
+      "duration" : 1
     },
     "status" : "passed",
     "steps" : [ ],
     "attachments" : [ ],
     "parameters" : [ ],
-    "stepsCount" : 0,
-    "hasContent" : false,
+    "shouldDisplayMessage" : false,
     "attachmentsCount" : 0,
-    "shouldDisplayMessage" : false
+    "stepsCount" : 0,
+    "hasContent" : false
   } ],
   "afterStages" : [ {
     "name" : "simple_setup::0",
     "time" : {
-      "start" : 1584770695179,
-      "stop" : 1584770695179,
+      "start" : 1584770695198,
+      "stop" : 1584770695198,
       "duration" : 0
     },
     "status" : "passed",
     "steps" : [ ],
     "attachments" : [ ],
     "parameters" : [ ],
-    "stepsCount" : 0,
-    "hasContent" : false,
+    "shouldDisplayMessage" : false,
     "attachmentsCount" : 0,
-    "shouldDisplayMessage" : false
+    "stepsCount" : 0,
+    "hasContent" : false
   } ],
   "labels" : [ {
     "name" : "parentSuite",
@@ -73,14 +73,12 @@
   } ],
   "parameters" : [ ],
   "links" : [ ],
-  "hidden" : false,
-  "retry" : false,
+  "hidden" : true,
+  "retry" : true,
   "extra" : {
-    "severity" : "normal",
-    "retries" : [ ],
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "d16796ad674899fe.json",
+  "source" : "cc67e7d1182d8977.json",
   "parameterValues" : [ ]
 }
