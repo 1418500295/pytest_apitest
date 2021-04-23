@@ -247,7 +247,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$USER_HOME$/AppData/Local/Programs/Python/Python38/Lib/site-packages/pytest/__init__.py</url>
+          <url>file://$PROJECT_DIR$/../AppData/Local/Programs/Python/Python38/Lib/site-packages/pytest/__init__.py</url>
           <line>4</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
